@@ -1,6 +1,6 @@
 Welcome to the wonderful world of Resident Evil RP!
 
-Checking out the wiki is the best place to start: https://github.com/chernaruski/residentevilrp/home/wiki
+Checking out the wiki is the best place to start: https://github.com/chernaruski/residentevilrp/wiki
 
 You can join our servers here:
 
